@@ -1,0 +1,9 @@
+fastapi
+streamlit
+uvicorn
+chromadb
+sentence-transformers
+numpy
+requests
+ollama
+python-multipart
